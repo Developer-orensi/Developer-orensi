@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Developer-orensi
-- 👀 I’m interested in Javascript
-- I like HTML programming!
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Javascript, Python
+- **I like HTML programming!**
+- 🌱 I’m currently learning C, C#
 - 💞️ I’m looking to collaborate on Song-woo-seok
 - 📫 How to reach me ...
 
