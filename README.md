@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Developer-orensi
 - 👀 I’m interested in Javascript, Python
 - **I like HTML programming!**
-- 🌱 I’m currently learning C, C#
-- 💞️ I’m looking to collaborate on Song-woo-seok
+- 🌱 I’m currently learning C, C#, Cpp
+- 💞️ I’m looking to collaborate on Jiun kong
 - 📫 How to reach me ...
 
 <!---
